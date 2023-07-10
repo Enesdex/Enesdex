@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Selim Enes Karaduman @Enesdex 
-- 👀 I’m interested in ...
-- Vulnerability Research and Exploitation, Currently focused on Linux Kernel
+- 👀 I’m Vulnerability Researcher and Security Engineer
 - 📫 How to reach me 
 - selimeneskaraduman@hotmail.com
 
